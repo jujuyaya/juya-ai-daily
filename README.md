@@ -25,8 +25,6 @@ RSS正常提供服务中。Folo 可能出现接收不到最新文章以及接收
 
 ## 最近更新
 
-暂无。发布第一篇新 Issue 后，本区域会由 GitHub Actions 自动更新。
-
 ---
 
 ## License
